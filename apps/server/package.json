@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "edgedb": "^1.5.4"
+  },
+  "devDependencies": {
+    "@edgedb/generate": "^0.5.3"
+  }
+}
