@@ -3,10 +3,16 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "dev": "tsx watch src/index.ts"
+  },
   "dependencies": {
     "edgedb": "^1.5.4"
   },
   "devDependencies": {
-    "@edgedb/generate": "^0.5.3"
+    "@edgedb/generate": "^0.5.3",
+    "@types/node": "^20.12.8",
+    "tsx": "^4.8.2",
+    "typescript": "^5.4.5"
   }
 }
