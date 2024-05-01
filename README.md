@@ -2,6 +2,15 @@
 
 This is an official starter Turborepo.
 
+EdgeDB-Hackaton
+
+Sketch:
+
+![image](https://github.com/Thiago-Mota-Santos/EdgeDB-Hackaton/assets/75326612/c6ca3d91-24e6-4125-95f4-bc6d7415026c)
+
+![image](https://github.com/Thiago-Mota-Santos/EdgeDB-Hackaton/assets/75326612/950cafd1-404b-402a-b92d-62978e1734d3)
+
+
 ## Using this example
 
 Run the following command:
